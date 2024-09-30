@@ -1,0 +1,30 @@
+﻿@model ABC_MVC.Models.ProductViewModel
+
+<h2 style="color: #5eedab; text-align: center; margin-bottom: 20px;">Create Product</h2>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data" style="background-color: #313131; padding: 20px; border-radius: 10px;">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label" style="color: #FFFFFF;"></label>
+        <input asp-for="Name" class="form-control" style="background-color: #9b9b9b; color: #FFFFFF;" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Price" class="control-label" style="color: #FFFFFF;"></label>
+        <input asp-for="Price" class="form-control" style="background-color: #9b9b9b; color: #FFFFFF;" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description" class="control-label" style="color: #FFFFFF;"></label>
+        <textarea asp-for="Description" class="form-control" style="background-color: #9b9b9b; color: #FFFFFF;"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ImageFile" class="control-label" style="color: #FFFFFF;"></label>
+        <input asp-for="ImageFile" type="file" class="form-control" style="background-color: #9b9b9b; color: #FFFFFF;" />
+        <span asp-validation-for="ImageFile" class="text-danger"></span>
+    </div>
+    <div class="form-group text-center">
+        <br/>
+        <input type="submit" value="Create" class="btn" style="background-color: #ff965a; color: #FFFFFF; width: 150px;" />
+    </div>
+</form>

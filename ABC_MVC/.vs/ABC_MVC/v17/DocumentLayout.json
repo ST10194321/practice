@@ -1,0 +1,511 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|c:\\users\\jadin\\source\\repos\\abc_mvc\\abc_mvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\models\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\models\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\controllers\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\controllers\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\controllers\\loginqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\controllers\\loginqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|C:\\Users\\jadin\\source\\repos\\ABC_MVC\\abc_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{808F1BCF-8B74-4548-8EFD-16342F016367}|ABC_MVC\\ABC_MVC.csproj|solutionrelative:abc_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ABC_MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ABC_MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T14:57:10.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ABC_MVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ABC_MVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T14:57:07.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "ABC_MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\appsettings.json",
+              "RelativeToolTip": "ABC_MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T13:45:35.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ABC_MVC\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\appsettings.Development.json",
+              "RelativeToolTip": "ABC_MVC\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T11:49:09.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "ABC_MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Program.cs",
+              "RelativeToolTip": "ABC_MVC\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:45:10.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ABC_MVC\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ABC_MVC\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T14:08:36.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ABC_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ABC_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T13:41:25.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "ABC_MVC\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "ABC_MVC\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T12:48:41.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ABC_MVC\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ABC_MVC\\Controllers\\CartController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:46:30.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ABC_MVC\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ABC_MVC\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:07:22.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ABC_MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ABC_MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T14:57:11.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ABC_MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ABC_MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T14:57:06.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ABC_MVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ABC_MVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABIAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T12:26:13.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ABC_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ABC_MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T12:02:37.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ABC_MVC\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "ABC_MVC\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:48:56.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "ABC_MVC\\Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "ABC_MVC\\Models\\ProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:03:19.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "ABC_MVC\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "ABC_MVC\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T13:48:05.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ABC_MVC\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ABC_MVC\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T14:09:11.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\Register\\Register.cshtml",
+              "RelativeDocumentMoniker": "ABC_MVC\\Views\\Register\\Register.cshtml",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Views\\Register\\Register.cshtml",
+              "RelativeToolTip": "ABC_MVC\\Views\\Register\\Register.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T13:47:15.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ABC_MVC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Models\\Product.cs",
+              "RelativeToolTip": "ABC_MVC\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:02:15.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ABC_MVC\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "ABC_MVC\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:49:43.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ABC_MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ABC_MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:09:05.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Models\\CustomerProfile.cs",
+              "RelativeDocumentMoniker": "ABC_MVC\\Models\\CustomerProfile.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Models\\CustomerProfile.cs",
+              "RelativeToolTip": "ABC_MVC\\Models\\CustomerProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:09:08.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TableStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Controllers\\TableStorageService.cs",
+              "RelativeDocumentMoniker": "ABC_MVC\\Controllers\\TableStorageService.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Controllers\\TableStorageService.cs",
+              "RelativeToolTip": "ABC_MVC\\Controllers\\TableStorageService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:34:20.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "ABC_MVC\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "ABC_MVC\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:38:31.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginQueueService.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Controllers\\LoginQueueService.cs",
+              "RelativeDocumentMoniker": "ABC_MVC\\Controllers\\LoginQueueService.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Controllers\\LoginQueueService.cs",
+              "RelativeToolTip": "ABC_MVC\\Controllers\\LoginQueueService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:09:24.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ABC_MVC\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ABC_MVC\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwBAAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:42:27.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ABC_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ABC_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:10:39.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ABC_MVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jadin\\source\\repos\\ABC_MVC\\ABC_MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ABC_MVC\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T13:56:24.045Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

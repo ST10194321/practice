@@ -1,0 +1,104 @@
+﻿@model IEnumerable<ABC_MVC.Models.Product>
+<br />
+<br />
+<h2 class="text-center" style="color: #FFFFFF;">Product List</h2>
+
+
+<div class="d-flex justify-content-center mb-4">
+    <a href="https://localhost:7157/Product/Create" class="btn btn-primary" style="background-color: #5eedab; border-color: #5eedab; color: #313131;">Create New Product</a>
+</div>
+
+<div class="container">
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm" style="background-color: #313131;">
+                    @if (!string.IsNullOrEmpty(product.ImageUrl))
+                    {
+                        <img src="@product.ImageUrl" alt="@product.Name" class="card-img-top" />
+                    }
+                    else
+                    {
+                        <img src="/images/placeholder.png" alt="Placeholder Image" class="card-img-top" />
+                    }
+                    <div class="card-body">
+                        <h5 class="card-title" style="color: #5eedab;">@product.Name</h5>
+                        <p class="card-text" style="color: #9b9b9b;">@product.Description</p>
+                        <p class="card-text" style="color: #FFFFFF;"><strong>@product.Price</strong></p>
+
+                        <form method="post" action="/Product/AddToCart">
+                            <input type="hidden" name="productId" value="@product.Id" />
+                            <button type="submit" class="btn add-to-cart">Add to Cart</button>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+<!-- Name of Website: Bootstrap -->
+<!-- Accessed: 12 August 2024 -->
+<!-- Website Link: https://themes.getbootstrap.com/ -->
+
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+<style>
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background: linear-gradient(to bottom, #f0f0f0, #a0a0a0);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.card {
+    border: 1px solid #9b9b9b;
+    border-radius: 0.5rem;
+    width: 70%;
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-bottom: 1px solid #9b9b9b;
+}
+
+.card-body {
+    padding: 1.25rem;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    margin-bottom: 0.75rem;
+}
+
+.card-text {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.add-to-cart {
+    background-color: #ff965a;
+    color: #FFFFFF;
+    border: none;
+    padding: 0.5rem 1rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 0.25rem;
+}
+
+.add-to-cart:hover {
+    background-color: #f47e3a;
+    color: #FFFFFF;
+}
+</style>
